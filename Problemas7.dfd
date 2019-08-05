@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+dist
+4
+80.2
+3
+cap
+4
+1000
+3
+gpk
+4
+0.10
+6
+1
+3
+ppg
+5
+10000
+4
+1
+49
+'Este transporte es capaz de transportar 1000 Kg'
+4
+1
+72
+'Por favor ingrese la cantidad de kilos que desea transportar a Sasaima'
+5
+1
+2
+kg
+6
+3
+3
+gas
+8
+gpk*dist
+4
+viaj
+6
+kg/cap
+3
+gpv
+8
+gas*viaj
+6
+1
+5
+costg
+7
+gpv*ppg
+4
+1
+81
+'Para transportar esta cantidad de mercancia seran necesarios  ' ,viaj,' viaje/s'
+4
+1
+42
+'Se consumira ',gpv,' galones de gasolina'
+4
+1
+49
+'El costo de la gasolina será de $ ',costg,' CoP'
+1
